@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod drwx--x--x 0x01-shell_permissions
+chmod drwxr-xr-x 11-directories_permissions
